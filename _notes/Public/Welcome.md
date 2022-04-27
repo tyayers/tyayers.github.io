@@ -1,6 +1,8 @@
-title: "Welcome"
+---
+title: Welcome
 notetype: feed
 date: 27-04-2022
+---
 
 # Welcome
 
