@@ -8,8 +8,7 @@ date: 27-04-2022
 
 This is my first note.
 
-```ts
-
+```js
 let test = "test";
 ```
 
